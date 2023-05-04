@@ -1,0 +1,14 @@
+{
+   "1": {
+      "product": "butter",
+      "price": 120
+   },
+   "2": {
+      "product": "cheese",
+      "price": 270
+   },
+   "3": {
+      "product": "jam",
+      "price": 180
+   }
+}
